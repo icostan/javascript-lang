@@ -42,7 +42,10 @@ ol, ul {
 
 .game {
     display: flex;
+    display: inline;
     flex-direction: row;
+    display: inline;
+
 }
 
 .game-info {
